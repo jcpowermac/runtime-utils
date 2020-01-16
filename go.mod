@@ -1,4 +1,4 @@
-module github.com/openshift/runtime-utils
+module github.com/jcpowermac/runtime-utils
 
 go 1.12
 
