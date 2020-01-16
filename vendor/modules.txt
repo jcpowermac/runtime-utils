@@ -6,10 +6,10 @@ github.com/containers/image/docker/reference
 github.com/containers/image/types
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
+# github.com/gogo/protobuf v1.3.1
 github.com/gogo/protobuf/proto
 github.com/gogo/protobuf/sortkeys
-# github.com/google/go-cmp v0.3.0
+# github.com/google/go-cmp v0.4.0
 github.com/google/go-cmp/cmp
 github.com/google/go-cmp/cmp/internal/diff
 github.com/google/go-cmp/cmp/internal/flags
@@ -24,7 +24,7 @@ github.com/opencontainers/go-digest
 # github.com/opencontainers/image-spec v1.0.1
 github.com/opencontainers/image-spec/specs-go/v1
 github.com/opencontainers/image-spec/specs-go
-# github.com/openshift/api v3.9.1-0.20191002160657-d92789481b05+incompatible
+# github.com/openshift/api v0.0.0-20200116145750-0e2ff1e215dd
 github.com/openshift/api/operator/v1alpha1
 github.com/openshift/api/config/v1
 # github.com/openshift/library-go v0.0.0-20191003152030-97c62d8a2901
@@ -36,7 +36,7 @@ github.com/openshift/library-go/alpha-build-machinery/make/targets/golang
 github.com/openshift/library-go/alpha-build-machinery/make/targets/openshift
 github.com/openshift/library-go/alpha-build-machinery/make/targets/openshift/operator
 github.com/openshift/library-go/alpha-build-machinery/scripts
-# github.com/pkg/errors v0.8.1
+# github.com/pkg/errors v0.9.1
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
@@ -45,25 +45,25 @@ github.com/sirupsen/logrus
 # github.com/stretchr/testify v1.4.0
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
-# golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
+# golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa
 golang.org/x/net/http2
 golang.org/x/net/http/httpguts
 golang.org/x/net/http2/hpack
 golang.org/x/net/idna
-# golang.org/x/sys v0.0.0-20190616124812-15dcb6c0061f
+# golang.org/x/sys v0.0.0-20200116001909-b77594299b42
 golang.org/x/sys/unix
 # golang.org/x/text v0.3.2
 golang.org/x/text/secure/bidirule
 golang.org/x/text/unicode/bidi
 golang.org/x/text/unicode/norm
 golang.org/x/text/transform
-# gopkg.in/inf.v0 v0.9.0
+# gopkg.in/inf.v0 v0.9.1
 gopkg.in/inf.v0
-# gopkg.in/yaml.v2 v2.2.4
+# gopkg.in/yaml.v2 v2.2.7
 gopkg.in/yaml.v2
-# k8s.io/api v0.0.0-20191003035645-10e821c09743
+# k8s.io/api v0.17.1
 k8s.io/api/core/v1
-# k8s.io/apimachinery v0.0.0-20191003115452-c31ffd88d5d2
+# k8s.io/apimachinery v0.17.1
 k8s.io/apimachinery/pkg/apis/meta/v1
 k8s.io/apimachinery/pkg/runtime
 k8s.io/apimachinery/pkg/runtime/schema
